@@ -11,7 +11,7 @@
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.0.1",
-    "redux-saga-monitor": "0.1.7",
+    "redux-saga-monitor": "0.1.8",
     "typescript": "3.5.2"
   },
   "scripts": {
