@@ -7,11 +7,11 @@
     "@types/node": "12.0.8",
     "@types/react": "16.8.20",
     "@types/react-dom": "16.8.4",
-    "cytoscape": "^3.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "cytoscape": "3.7.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
     "react-scripts": "3.0.1",
-    "redux-saga-monitor": "^0.1.7",
+    "redux-saga-monitor": "0.1.7",
     "typescript": "3.5.2"
   },
   "scripts": {
@@ -36,9 +36,9 @@
     ]
   },
   "devDependencies": {
-    "@types/cytoscape": "^3.4.3",
-    "@types/react-redux": "^7.1.0",
-    "react-redux": "^7.1.0",
-    "redux-saga": "^0.16.2"
+    "@types/cytoscape": "3.4.3",
+    "@types/react-redux": "7.1.0",
+    "react-redux": "7.1.0",
+    "redux-saga": "0.16.2"
   }
 }
