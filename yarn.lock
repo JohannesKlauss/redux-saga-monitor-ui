@@ -3087,10 +3087,10 @@ cyclist@~0.2.2:
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-0.2.2.tgz#1b33792e11e914a2fd6d6ed6447464444e5fa640"
   integrity sha1-GzN5LhHpFKL9bW7WRHRkRE5fpkA=
 
-cytoscape@3.7.2:
-  version "3.7.2"
-  resolved "https://registry.yarnpkg.com/cytoscape/-/cytoscape-3.7.2.tgz#ab9d384648ad5aacaa43df528062c9001924c781"
-  integrity sha512-9d7+Tye6MyALSPqy8bpiG1lkLHwiNi+ITJSaSbCWiP2GYgwknH2EQTwXg7RuyyMsjHekGwPqQhI5s37YJiHuBA==
+cytoscape@3.7.3:
+  version "3.7.3"
+  resolved "https://registry.yarnpkg.com/cytoscape/-/cytoscape-3.7.3.tgz#169ab89e6fdf7aedb4f4c0cddbdc67c23914d646"
+  integrity sha512-70WU7ZITYnxPFjorGe3Oa1SPY9Qa4ZZyi1k2F67VeSxx8X4ReoWBfIMt5ogZkVUC5dMxOV7hbFyrcJJ86wR7LA==
   dependencies:
     heap "^0.2.6"
     lodash.debounce "^4.0.8"
