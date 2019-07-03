@@ -8132,17 +8132,12 @@ recursive-readdir@2.2.2:
   dependencies:
     minimatch "3.0.4"
 
-redux-saga-monitor@0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/redux-saga-monitor/-/redux-saga-monitor-0.1.7.tgz#da7c2775f7ed1bc527c3cdb59332304605457f50"
-  integrity sha512-EC9rZYQzNOvodAGtgBZlFddWVDdly9/TKOn9I9yqJExz+SIkR+IwZJmcG00MQiLIKnzK38cbTSMyT315tzO1QA==
+redux-saga-monitor@0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/redux-saga-monitor/-/redux-saga-monitor-0.1.8.tgz#f99910024cea3cb0c37e8e29bc23403a27893775"
+  integrity sha512-DLHSRn94aM6mtzPqgWCIUkoLTPvJxAE9fUmbZi41WRyFTIj08kweXYr3ywlP6eaEJ9GCuzffdpjukQJLy9NFdA==
   dependencies:
-    redux-saga "0.16.0"
-
-redux-saga@0.16.0:
-  version "0.16.0"
-  resolved "https://registry.yarnpkg.com/redux-saga/-/redux-saga-0.16.0.tgz#0a231db0a1489301dd980f6f2f88d8ced418f724"
-  integrity sha1-CiMdsKFIkwHdmA9vL4jYztQY9yQ=
+    redux-saga "0.16.2"
 
 redux-saga@0.16.2:
   version "0.16.2"
