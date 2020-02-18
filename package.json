@@ -7,7 +7,7 @@
     "@types/node": "12.6.9",
     "@types/react": "16.8.24",
     "@types/react-dom": "16.8.5",
-    "cytoscape": "3.8.2",
+    "cytoscape": "3.14.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.0.1",
@@ -36,7 +36,7 @@
     ]
   },
   "devDependencies": {
-    "@types/cytoscape": "3.8.0",
+    "@types/cytoscape": "3.14.0",
     "@types/react-redux": "7.1.1",
     "react-redux": "7.1.0",
     "redux-saga": "1.0.5"
