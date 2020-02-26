@@ -8,8 +8,8 @@
     "@types/react": "16.8.24",
     "@types/react-dom": "16.8.5",
     "cytoscape": "3.8.2",
-    "react": "16.8.6",
-    "react-dom": "16.8.6",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
     "react-scripts": "3.0.1",
     "redux-saga-monitor": "0.1.8",
     "typescript": "3.5.3"
